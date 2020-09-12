@@ -11,7 +11,7 @@
 
 * Maintainer of, core contributor to [skorch](https://github.com/skorch-dev/skorch), a scikit-learn compatible neural network library that wraps PyTorch
 * Core contributor to [dstoolbox](https://github.com/ottogroup/dstoolbox)
-* Contributor to [nolearn](https://github.com/dnouri/nolearn/graphs/contributors)
+* Contributor to [nolearn](https://github.com/dnouri/nolearn)
 * [skorch talk](https://youtu.be/Qbu_DCBjVEk) at PyCon/PyData 2019, Berlin
 
 ## Profiles
