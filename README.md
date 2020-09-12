@@ -3,7 +3,7 @@
 ## Short CV
 
 * 09/2019 - now: Head of Data Science Berlin, [NewYorker](https://www.newyorker.de/)
-* 02/2919 - 09/2019 - Senior Data Scientist, NewYorker GmbH & Co. KG
+* 02/2919 - 09/2019 - Senior Data Scientist, NewYorker
 * 11/2013 - 02/2019 - (Senior) Data Scientist, [Otto Group](https://www.ottogroup.com/en/index.php)
 * 05/2009 - 11/2013 - PhD in Theoretical Biology, [Humboldt Universität zu Berlin](https://edoc.hu-berlin.de/handle/18452/17512)
 
