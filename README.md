@@ -2,8 +2,9 @@
 
 ## Short CV
 
-* 09/2019 - now: Head of Data Science Berlin, [NewYorker](https://www.newyorker.de/)
-* 02/2919 - 09/2019 - Senior Data Scientist, NewYorker
+* 05/2021 - now - Lead Machine Learning Engineer, [Klara](https://www.klara.com/)
+* 09/2019 - 04/2021 - Head of Data Science Berlin, [NewYorker](https://www.newyorker.de/)
+* 02/2019 - 09/2019 - Senior Data Scientist, NewYorker
 * 11/2013 - 02/2019 - (Senior) Data Scientist, [Otto Group](https://www.ottogroup.com/en/index.php)
 * 05/2009 - 11/2013 - PhD in Theoretical Biology, [Humboldt Universität zu Berlin](https://edoc.hu-berlin.de/handle/18452/17512)
 
