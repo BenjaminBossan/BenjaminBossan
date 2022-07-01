@@ -2,7 +2,8 @@
 
 ## Short CV
 
-* 05/2021 - now - Lead Machine Learning Engineer, [Klara](https://www.klara.com/)
+* 07/2022 - now - Machine Learning Engineer, [Hugging Face](https://huggingface.co/)
+* 05/2021 - 06/2022 - Lead Machine Learning Engineer, [Klara](https://www.klara.com/)
 * 09/2019 - 04/2021 - Head of Data Science Berlin, [NewYorker](https://www.newyorker.de/)
 * 02/2019 - 09/2019 - Senior Data Scientist, NewYorker
 * 11/2013 - 02/2019 - (Senior) Data Scientist, [Otto Group](https://www.ottogroup.com/en/index.php)
