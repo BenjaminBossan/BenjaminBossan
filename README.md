@@ -11,10 +11,12 @@
 
 ## Open source contributions
 
+* Maintaining of/contributing to various Hugging Face repositories ([PEFT](https://github.com/huggingface/peft), [accelerate](https://github.com/huggingface/accelerate), [diffusers](https://github.com/huggingface/diffusers/))
 * Maintainer of, core contributor to [skorch](https://github.com/skorch-dev/skorch), a scikit-learn compatible neural network library that wraps PyTorch
 * Core contributor to [dstoolbox](https://github.com/ottogroup/dstoolbox)
 * Contributor to [nolearn](https://github.com/dnouri/nolearn)
 * [skorch talk](https://youtu.be/Qbu_DCBjVEk) at PyCon/PyData 2019, Berlin
+* [skorch talk](https://youtu.be/y_n7BjDCS-M) at PyData 2023, Amsterdam
 
 ## Profiles
 
@@ -30,5 +32,6 @@
 * PyTorch, scikit-learn
 * Leadership, mentoring
 * Photography
+* Playing the guitar
 
 Feel free to reach out to me if you have questions about my work or are interested in cooperating.
